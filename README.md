@@ -10,8 +10,8 @@ ToTop快速置顶
 如何安装
 ---
 
-1.通过chrome webstore 搜索"置顶" > 安装
+* 通过chrome webstore 搜索"置顶" > 安装
 
 或
 
-2. 打开chrome >>设置 >>  扩展程序 >>  拖拽ToTop.crx 到扩展程序列表上安装
+* 打开chrome >>设置 >>  扩展程序 >>  拖拽ToTop.crx 到扩展程序列表上安装
