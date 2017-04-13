@@ -10,7 +10,7 @@ ToTop快速置顶
 如何安装
 ---
 
-* 通过chrome webstore 搜索"置顶" > 安装
+* 点击<a href='https://chrome.google.com/webstore/detail/%E7%BD%AE%E9%A1%B6%EF%BC%88totop%EF%BC%89/eoecceliiajignmnmnehakdagafjigdj?utm_source=chrome-ntp-icon'>下载插件</a>
 
 或
 
