@@ -16,3 +16,9 @@ ToTop快速置顶
 
 * <a href='https://github.com/JHXue/ToTop/blob/master/download/ToTop.crx'>下载</a>
 * 打开chrome >>设置 >>  扩展程序 >>  拖拽ToTop.crx 到扩展程序列表上安装
+
+
+注意事项
+---
+> chrome 内置网页，不支持置顶。
+> 觉得还行，往能 Star 一下
