@@ -1,13 +1,13 @@
 ToTop快速置顶
 ============
 
-为什么会有这个项目
+为什么会有这个项目?
 ---
 
-不是所有的网站上都存在快速置顶按钮，故开发快速置顶插件。
-适用于chrome，支持点击插件按钮置顶，右键菜单置顶。
+不是所有的网站，都存在快速置顶按钮，故开发置顶插件。<br>
+适用于chrome，支持点击插件按钮、右键菜单置顶。
 
-如何安装
+如何安装?
 ---
 
 * <a href='https://chrome.google.com/webstore/detail/%E7%BD%AE%E9%A1%B6%EF%BC%88totop%EF%BC%89/eoecceliiajignmnmnehakdagafjigdj?utm_source=chrome-ntp-icon'>通过Chrome Store安装</a>
@@ -20,5 +20,5 @@ ToTop快速置顶
 
 注意事项
 ---
-> chrome 内置网页，不支持置顶。
-> 觉得还行，往能 Star 一下
+- chrome 内置网页，不支持置顶。<br>
+- 觉得还行，望能 Star 一下。
